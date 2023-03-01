@@ -1,0 +1,54 @@
+/** esto es un comentario*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    
+    background-color: beige;
+    font-family: 'calibri';
+}
+
+
+
+.contenedor {
+    border: 1px solid cornsilk;
+    margin: 0 auto;
+    width: 60%;
+    padding: 10px;
+    
+}
+.img2{
+    width: 175px;
+    height: 175px;
+}
+.principal {
+    border: 3px solid white;
+    padding: 10px;
+    background-color: #5D2F25;
+}
+.header {
+    display: flex;
+}
+.name {
+    margin-left: 40px;
+    width: 100%;
+    color: beige;
+    font-style: italic;
+    
+}
+
+.título {
+    border: 1px solid #5d2f25;
+    color: #5D2F25;
+}
+.contenido {
+    font-style: initial;
+    size: 30px;
+}
+
+.img3 {
+    width: 400px;
+    
+}
